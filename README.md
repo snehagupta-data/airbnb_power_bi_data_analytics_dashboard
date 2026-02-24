@@ -1,7 +1,5 @@
 # Global Airbnb Market Performance Dashboard | Power BI
 
-![Dashboard Preview](link-to-your-dashboard-image-screenshot.png)
-
 ## 📌 Overview
 This Power BI project analyzes Airbnb performance across 10 major global cities, uncovering market trends, pricing strategies, and guest satisfaction patterns from 2008 to 2020.
 
